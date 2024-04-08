@@ -8,8 +8,6 @@ Here is my output from the testing:
 
 ![1](https://github.com/jes-bro/hashing/blob/master/Screenshot%20from%202024-04-08%2000-52-05.png)
 
-![2](https://someurl/imagelocation/image.png)
+![2](https://github.com/jes-bro/hashing/blob/master/Screenshot%20from%202024-04-08%2000-52-44.png)
 
-![3](https://someurl/imagelocation/image.png)
-
-![4](https://someurl/imagelocation/image.png)
+![3]()
